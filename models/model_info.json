@@ -1,0 +1,21 @@
+{
+  "model_type": "XGBoost con SMOTE",
+  "feature_type": "Ventanas temporales (30 frames x 16 caracter\u00edsticas)",
+  "window_size": 30,
+  "step_size": 5,
+  "n_features": 480,
+  "classes": [
+    "Caminar acercandose",
+    "Caminar alejandose (espaldas)",
+    "Giro 180 derecha",
+    "Giro 180 izquierda",
+    "Inclinarse derecha",
+    "Inclinarse izquierda",
+    "Parado sin movimiento",
+    "Ponerse de pie",
+    "Sentadillas",
+    "Sentado sin movimiento",
+    "Sentarse"
+  ],
+  "training_date": "2025-11-01T10:35:02.824523"
+}
