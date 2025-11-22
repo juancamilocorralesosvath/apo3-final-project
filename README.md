@@ -51,6 +51,7 @@ The core of the methodology involves a multi-stage data processing pipeline:
 ## Getting Started
 
 *   Clone this repo.
+* browse the required submission depending on what yo would like to explore
 
 ## Submission 2: Exploratory Data Analysis (EDA)
 
@@ -62,5 +63,15 @@ The necessary data for running and reproducing the analysis can be found in the 
 
 `Entrega2/data/`
 
+## Submission 2: Development of the application
 
+The folder containing this submission is:
+
+`Entrega3`
+
+**Note:** the repository containing the application is located in the following url:
+
+`https://github.com/BillyJoe121/PF-APO-III.git`
+
+you could clone it using the given link or open the .zip file found on this repository. 
 
